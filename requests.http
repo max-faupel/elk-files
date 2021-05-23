@@ -1,0 +1,14 @@
+PUT http://localhost:8080/
+content-type: application/json
+
+{
+    "name": "Sample Product",
+    "amount": 2
+}
+
+###
+
+PUT http://localhost:8080/
+content-type: text/plain
+
+93.114.45.13 - - [17/May/2015:10:05:14 +0000] "GET /articles/dynamic-dns-with-dhcp/ HTTP/1.1" 200 18848 "http://www.google.ro/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCwQFjAB&url=http%3A%2F%2Fwww.semicomplete.com%2Farticles%2Fdynamic-dns-with-dhcp%2F&ei=W88AU4n9HOq60QXbv4GwBg&usg=AFQjCNEF1X4Rs52UYQyLiySTQxa97ozM4g&bvm=bv.61535280,d.d2k" "Mozilla/5.0 (X11; Linux x86_64; rv:25.0) Gecko/20100101 Firefox/25.0"
